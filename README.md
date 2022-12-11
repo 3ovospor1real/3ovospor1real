@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João H. A.Ribeiro
 - 📫 Contate-me pelo meu e-mail: joaohumb2007@gmail.com
-- 🌱 Estou estudando R Programming & Javascript
-- 💻 Pretendo trabalhar com Data Science
+- 🌱 Estou estudando HTML & CSS
+- 💻 Pretendo trabalhar com Data Science e Full Stack
 - 😃 Pronomes: Ele/Dele
 
 <div align="center">
