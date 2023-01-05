@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João H. A.Ribeiro
 - 📫 Contate-me pelo meu e-mail: joaohumb2007@gmail.com
-- 🌱 Estou estudando HTML & CSS
+- 🌱 Estou estudando HTML, CSS e JavaScript
 - 💻 Pretendo trabalhar com Data Science e Full Stack
 - 😃 Pronomes: Ele/Dele
 
